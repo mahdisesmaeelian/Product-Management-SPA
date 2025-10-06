@@ -44,5 +44,3 @@ npm run dev      # vite dev server
 
 ## Deploying
 - For deployment, you can run `npm run build` and serve the `dist` folder. Note: json-server is for local development only. For a hosted API, point `src/api.js` to the hosted API base URL.
-
-Enjoy! 
